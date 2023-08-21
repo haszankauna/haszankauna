@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/tirnom_" target="blank"><img src="https://img.shields.io/twitter/follow/tirnom_?logo=twitter&style=for-the-badge" alt="tirnom_" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Innovating with  **code**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **coding**
 
 - 📫 How to reach me **haszankauna@gmail.com**
 
