@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kauna</h1>
-<h3 align="center">I'm a passionate frontend developer that loves to solve problems and write code. I work with Html/CSS, Javascript and React</h3>
+<h3 align="center">I love to code and explain the nitty gritty of coding. </h3>
 <img align="right" alt="coding" width="650" src="https://tse4.mm.bing.net/th?id=OIP.kQoIQZBvEGOFZmwNkr2n9wHaHa&pid=Api&P=0 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haszankauna&label=Profile%20views&color=0e75b6&style=flat" alt="haszankauna" /> </p>
